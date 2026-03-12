@@ -1,0 +1,7 @@
+Seluruh kode, struktur, dan implementasi dalam proyek ini dibuat oleh Arif Alamsyah (pyoif) secara mandiri sebagai respons terhadap technical test yang diberikan oleh PT Akses Mandiri, diselesaikan pada tanggal 12 Maret 2026.
+
+Proyek ini bersifat tertutup dan tidak dimaksudkan untuk distribusi, publikasi, maupun penggunaan ulang dalam bentuk apapun. Hak penggunaan hanya dimiliki oleh pembuat (Arif Alamsyah) dan pihak penilai dari PT Akses Mandiri dalam konteks proses rekrutmen yang bersangkutan.
+
+Dilarang keras untuk menyalin, memodifikasi, mendistribusikan, mempublikasikan, atau menggunakan sebagian maupun seluruh bagian dari kode ini untuk tujuan apapun di luar konteks di atas, tanpa izin tertulis dari pembuat.
+
+Copyright (c) 2026 Arif Alamsyah (pyoif). All rights reserved.
