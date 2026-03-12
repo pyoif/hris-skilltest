@@ -167,7 +167,7 @@ Setiap record absensi yang sudah memiliki IN dan OUT akan dievaluasi dengan atur
 - Jika clock-out tidak tercatat, statusnya "Tidak Lengkap"
 - Selain itu, statusnya "Tepat Waktu"
 
-Kode dapat dibaca di folder utils frontend
+Kode logika dapat dibaca di folder utils frontend/backend
 
 ## license
 
